@@ -13,7 +13,7 @@ This project addresses the problem of predicting customer churn using a publicly
 Customer churn prediction is crucial for business institutions to maintain and enhance customer relationships. This project aims to develop and compare various machine learning models to predict customer churn and identify significant factors contributing to churn.
 
 ## Dataset
-The dataset used in this project is the publicly available Churn Dataset. It includes various features related to customer demographics, account information, and usage patterns.
+The dataset `churn_prediction` used in this project is the publicly available Churn Dataset. It includes various features related to customer demographics, account information, and usage patterns.
 
 ## Models
 Several machine learning models were implemented and evaluated in this project:
