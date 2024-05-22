@@ -1,2 +1,2 @@
 # Churn-Prediction
-Churn-Prediction
+We have addressed the problem of predicting the customer churn with the publicly available Churn Dataset. The main motivation behind this project is to identify the key factors behind the customer churn for business institutions. By leveraging such models in the deployment, the business entities could be benefited from pre-informative alarms that notifying the customers churn probabilities beforehand.
