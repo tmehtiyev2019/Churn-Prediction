@@ -8,9 +8,6 @@ This project addresses the problem of predicting customer churn using a publicly
 3. [Models](#models)
 4. [Results](#results)
 5. [Usage](#usage)
-6. [Dependencies](#dependencies)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 Customer churn prediction is crucial for business institutions to maintain and enhance customer relationships. This project aims to develop and compare various machine learning models to predict customer churn and identify significant factors contributing to churn.
