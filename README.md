@@ -53,7 +53,7 @@ The table below summarizes the results:
 | Naive Bayes         | 0.81     | 0.41      | 0.04   | 0.07     | 0.58    |
 
 ## Usage
-To run this project, follow these steps:
+To run this project, open the provided Jupyter Notebook (`Churn-Prediction.ipynb`). This self-contained notebook includes explanations, code, and results for training the models and evaluating their performance. Execute the cells to see the analysis and results.
 
 
 
